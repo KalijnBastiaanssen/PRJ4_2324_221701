@@ -3,25 +3,41 @@
 
 
 .resume-header {
-    background-color: #CAF3FC;
+    background-color: #EADAF4;
 }
 
 
 .resume-aside {
-    background-color: #FFEEDD;
+    background-color: #CAF3FC;
 }
 
 
 .resume-main {
-    background-color: #FFFBF4;
+    background-color: #FAF8EB;
 }
 	
 
 .kalijn_2nd_font {font-family: "Micro 5", sans-serif;}
 
 .kalijn_font {
-    color: #D91316;
+    color: #622887;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: normal;
 }
+
+.kalijn_font_italic {
+    color: #622887;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    font-style: italic;
+}
+
+.kalijn_font_basic {
+    font-style: normal;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+
 
 
 #first time span {
