@@ -40,45 +40,12 @@
 
 
 
-#first time span {
-    font-family: Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;	
-}
-
-.mybox {
-    width: 600px;
-    border: medium solid #C54444;
-    border-radius: 2px;
-    height: 80px;
-    padding-top: 23px;
-    padding-right: 23px;
-    padding-left: 23px;
-    padding-bottom: 23px;
-    background-color: #D07D7F;
-    margin-left: 25px;
-}
 
 
 
-.btn-danger {
-    background-color: #F77F81;
+
+
 	
 	
-	
-}
 
-.mybgcell1 {background-color: aquamarine;
-	
-}
-
-.mybgcell2 { background-color: lavender
-	
-}
-
-.mybgcell3 {background-color: cornflowerblue
-	
-}
-
-.mybgcell4 {background-color: seashell
-	
-}
 
