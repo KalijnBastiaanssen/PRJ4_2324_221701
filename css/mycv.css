@@ -1,9 +1,23 @@
 @charset "utf-8";
 
 
-.kalijn_2nd_font {
-    font-family: font-family: "Micro 5", sans-serif;
+
+.resume-header {
+    background-color: #CAF3FC;
 }
+
+
+.resume-aside {
+    background-color: #FFEEDD;
+}
+
+
+.resume-main {
+    background-color: #FFFBF4;
+}
+	
+
+.kalijn_2nd_font {font-family: "Micro 5", sans-serif;}
 
 .kalijn_font {
     color: #D91316;
